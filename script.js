@@ -26,7 +26,7 @@ const shutterSound = document.getElementById('shutterSound');
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 
-const CLOUD_NAME = "dqbi4wztz";
+const CLOUD_NAME = "dvyjv4svn";
 const UPLOAD_PRESET = "photobooth";
 
 
